@@ -24,7 +24,7 @@
         <platform-bom.version>Cairo-SR3</platform-bom.version>
 
         <!-- ali json -->
-        <fastjson.version>1.2.47</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
     </properties>
 
     <!-- 加入依赖 -->
